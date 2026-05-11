@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Petal 1 (top) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,14 C50,14 44,22 44,34 C44,38 46,42 48,44 C52,40 54,38 54,38 C54,38 56,40 60,44 C62,42 64,38 64,34 C64,22 58,14 54,14Z" />
+    <!-- Petal 2 (top-right) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M72,26 C68,22 58,24 50,30 C46,32 44,36 44,38 C48,40 52,40 54,38 C56,36 60,34 64,34 C68,34 72,32 74,30 C74,28 73,27 72,26Z" />
+    <!-- Petal 3 (bottom-right) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M72,64 C74,58 72,48 64,42 C60,40 56,40 54,38 C54,42 54,46 56,50 C58,54 60,58 62,62 C64,66 68,68 70,68 C71,68 72,66 72,64Z" />
+    <!-- Petal 4 (bottom-left) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M36,64 C34,58 36,48 44,42 C48,40 52,40 54,38 C54,42 54,46 52,50 C50,54 48,58 46,62 C44,66 40,68 38,68 C37,68 36,66 36,64Z" />
+    <!-- Petal 5 (top-left) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M36,26 C34,28 34,30 34,30 C36,32 40,34 44,34 C48,34 52,34 54,38 C54,34 54,30 52,26 C50,22 46,20 42,20 C40,20 38,22 36,26Z" />
+    <!-- Flower center -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M50,38 C50,36 52,34 54,34 C56,34 58,36 58,38 C58,40 56,42 54,42 C52,42 50,40 50,38Z" />
+    <!-- Small center dot -->
+    <path
+        android:fillColor="#F9A825"
+        android:pathData="M52,37 C52,36 53,35 54,35 C55,35 56,36 56,37 C56,38 55,39 54,39 C53,39 52,38 52,37Z" />
+    <!-- Leaf left -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M28,64 C26,60 28,56 32,54 C34,52 36,52 38,54 C36,56 34,58 32,62 C30,66 28,66 28,64Z" />
+    <!-- Leaf right -->
+    <path
+        android:fillColor="#388E3C"
+        android:pathData="M80,56 C82,52 80,48 76,46 C74,44 72,44 70,46 C72,48 74,50 76,54 C78,58 80,58 80,56Z" />
+</vector>

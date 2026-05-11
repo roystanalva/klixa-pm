@@ -1,0 +1,55 @@
+com.opencode.flowerrates.app-activity-compose-1.9.3-0 C:\Users\Roy\.gradle\caches\8.9\transforms\015e8e5457cd5ed8f147aca4685bf592\transformed\activity-compose-1.9.3\res
+com.opencode.flowerrates.app-savedstate-1.2.1-1 C:\Users\Roy\.gradle\caches\8.9\transforms\093981d4afc6817132e29843dc4bff8d\transformed\savedstate-1.2.1\res
+com.opencode.flowerrates.app-lifecycle-runtime-ktx-release-2 C:\Users\Roy\.gradle\caches\8.9\transforms\0a02545ebab80c1ddd984a15da865b61\transformed\lifecycle-runtime-ktx-release\res
+com.opencode.flowerrates.app-ui-util-release-3 C:\Users\Roy\.gradle\caches\8.9\transforms\0a88f967713d4ec6d808a3efcab66fa8\transformed\ui-util-release\res
+com.opencode.flowerrates.app-lifecycle-runtime-compose-release-4 C:\Users\Roy\.gradle\caches\8.9\transforms\140727bf9ec0a5cc3b90b4f3e7c16a27\transformed\lifecycle-runtime-compose-release\res
+com.opencode.flowerrates.app-lifecycle-viewmodel-savedstate-2.8.7-5 C:\Users\Roy\.gradle\caches\8.9\transforms\145e00a9153c84b9b9df6a3c773da13e\transformed\lifecycle-viewmodel-savedstate-2.8.7\res
+com.opencode.flowerrates.app-ui-unit-release-6 C:\Users\Roy\.gradle\caches\8.9\transforms\2c3062aa1d070fc4ecb05752850dd2c3\transformed\ui-unit-release\res
+com.opencode.flowerrates.app-animation-release-7 C:\Users\Roy\.gradle\caches\8.9\transforms\3c069c18a1b0a4822cf97f9f6a7edd6a\transformed\animation-release\res
+com.opencode.flowerrates.app-navigation-compose-2.8.4-8 C:\Users\Roy\.gradle\caches\8.9\transforms\3c11765e765934648db2c2739fd8b3a8\transformed\navigation-compose-2.8.4\res
+com.opencode.flowerrates.app-coil-base-2.7.0-9 C:\Users\Roy\.gradle\caches\8.9\transforms\3f62a2ac34ab319d28abf6cf2a9d73fb\transformed\coil-base-2.7.0\res
+com.opencode.flowerrates.app-core-ktx-1.13.1-10 C:\Users\Roy\.gradle\caches\8.9\transforms\4b616e3fc262f9bc17f6826cf0c99fa2\transformed\core-ktx-1.13.1\res
+com.opencode.flowerrates.app-core-1.13.1-11 C:\Users\Roy\.gradle\caches\8.9\transforms\5395139a1fb4c096ad10c7cb5d168dde\transformed\core-1.13.1\res
+com.opencode.flowerrates.app-material-release-12 C:\Users\Roy\.gradle\caches\8.9\transforms\5c2e5f140be7b2deccf2c4e291b88bcc\transformed\material-release\res
+com.opencode.flowerrates.app-lifecycle-process-2.8.7-13 C:\Users\Roy\.gradle\caches\8.9\transforms\5c40a200c2c8b4715dbc70866ba2b553\transformed\lifecycle-process-2.8.7\res
+com.opencode.flowerrates.app-ui-text-release-14 C:\Users\Roy\.gradle\caches\8.9\transforms\5ff9cd9260173e5fd896dba89c78565d\transformed\ui-text-release\res
+com.opencode.flowerrates.app-ui-geometry-release-15 C:\Users\Roy\.gradle\caches\8.9\transforms\655e5ea329c8a4582d41e4ee37cd4a68\transformed\ui-geometry-release\res
+com.opencode.flowerrates.app-navigation-runtime-2.8.4-16 C:\Users\Roy\.gradle\caches\8.9\transforms\68f6793a64477aae0fbc9a50d394ed8e\transformed\navigation-runtime-2.8.4\res
+com.opencode.flowerrates.app-startup-runtime-1.1.1-17 C:\Users\Roy\.gradle\caches\8.9\transforms\722e557d30bb97db92c1b45004a83641\transformed\startup-runtime-1.1.1\res
+com.opencode.flowerrates.app-material-icons-extended-release-18 C:\Users\Roy\.gradle\caches\8.9\transforms\7256644cb67352f60ec0c25b49a59a03\transformed\material-icons-extended-release\res
+com.opencode.flowerrates.app-navigation-common-2.8.4-19 C:\Users\Roy\.gradle\caches\8.9\transforms\7a9947aa3cfe05170c9e97198996c73f\transformed\navigation-common-2.8.4\res
+com.opencode.flowerrates.app-lifecycle-viewmodel-release-20 C:\Users\Roy\.gradle\caches\8.9\transforms\7f56dafe50e5c452e217c7ecc82414ba\transformed\lifecycle-viewmodel-release\res
+com.opencode.flowerrates.app-ui-release-21 C:\Users\Roy\.gradle\caches\8.9\transforms\81ed5ffe4c5b92f26f5ddfae03d478b4\transformed\ui-release\res
+com.opencode.flowerrates.app-foundation-layout-release-22 C:\Users\Roy\.gradle\caches\8.9\transforms\8348124d2d91add4a4ff77eff7d30d0b\transformed\foundation-layout-release\res
+com.opencode.flowerrates.app-activity-1.9.3-23 C:\Users\Roy\.gradle\caches\8.9\transforms\8510d397dbf1686e8726ff61c84f76af\transformed\activity-1.9.3\res
+com.opencode.flowerrates.app-navigation-runtime-ktx-2.8.4-24 C:\Users\Roy\.gradle\caches\8.9\transforms\9e66af8027e4c45a6b807b69511b0ebb\transformed\navigation-runtime-ktx-2.8.4\res
+com.opencode.flowerrates.app-lifecycle-runtime-release-25 C:\Users\Roy\.gradle\caches\8.9\transforms\9f71d5221e6075bfc82d6d70a2936f35\transformed\lifecycle-runtime-release\res
+com.opencode.flowerrates.app-emoji2-1.3.0-26 C:\Users\Roy\.gradle\caches\8.9\transforms\a14553a80c9f634a51172bb29b200ef2\transformed\emoji2-1.3.0\res
+com.opencode.flowerrates.app-animation-core-release-27 C:\Users\Roy\.gradle\caches\8.9\transforms\ae7af7c32b36771ece98b4357c1f87a0\transformed\animation-core-release\res
+com.opencode.flowerrates.app-material-ripple-release-28 C:\Users\Roy\.gradle\caches\8.9\transforms\b0232dcee83fca3ebf14c532e2e4cd5d\transformed\material-ripple-release\res
+com.opencode.flowerrates.app-runtime-saveable-release-29 C:\Users\Roy\.gradle\caches\8.9\transforms\b10deb2a1e0915c7b1e77485191e20aa\transformed\runtime-saveable-release\res
+com.opencode.flowerrates.app-ui-tooling-preview-release-30 C:\Users\Roy\.gradle\caches\8.9\transforms\b435d5d7007f1fae550ed114ab86cca9\transformed\ui-tooling-preview-release\res
+com.opencode.flowerrates.app-graphics-path-1.0.1-31 C:\Users\Roy\.gradle\caches\8.9\transforms\bfa0fe68109abe8212264ce609b14bf8\transformed\graphics-path-1.0.1\res
+com.opencode.flowerrates.app-annotation-experimental-1.4.1-32 C:\Users\Roy\.gradle\caches\8.9\transforms\c02673e495736a109a757b40baf0e458\transformed\annotation-experimental-1.4.1\res
+com.opencode.flowerrates.app-profileinstaller-1.3.1-33 C:\Users\Roy\.gradle\caches\8.9\transforms\c4edf433de5f9a0f752fd3f70ffd5a6f\transformed\profileinstaller-1.3.1\res
+com.opencode.flowerrates.app-lifecycle-livedata-core-2.8.7-34 C:\Users\Roy\.gradle\caches\8.9\transforms\c561453fdb89b54c8a2d43c351f12a55\transformed\lifecycle-livedata-core-2.8.7\res
+com.opencode.flowerrates.app-runtime-release-35 C:\Users\Roy\.gradle\caches\8.9\transforms\cf55eeeb5de9b28fb73bb2f0f8b5bb31\transformed\runtime-release\res
+com.opencode.flowerrates.app-customview-poolingcontainer-1.0.0-36 C:\Users\Roy\.gradle\caches\8.9\transforms\cff9d2d7f64c64b15605695f8c980e7c\transformed\customview-poolingcontainer-1.0.0\res
+com.opencode.flowerrates.app-core-runtime-2.2.0-37 C:\Users\Roy\.gradle\caches\8.9\transforms\d134c230d9f7a400dcf6b9a730a18f45\transformed\core-runtime-2.2.0\res
+com.opencode.flowerrates.app-material3-release-38 C:\Users\Roy\.gradle\caches\8.9\transforms\d3d19a164c74ce5150c55e321069f11e\transformed\material3-release\res
+com.opencode.flowerrates.app-activity-ktx-1.9.3-39 C:\Users\Roy\.gradle\caches\8.9\transforms\d446d08fafa49bdb3723ea5763ead968\transformed\activity-ktx-1.9.3\res
+com.opencode.flowerrates.app-lifecycle-viewmodel-ktx-2.8.7-40 C:\Users\Roy\.gradle\caches\8.9\transforms\d589479dd1ffbe415f859f01d78e243f\transformed\lifecycle-viewmodel-ktx-2.8.7\res
+com.opencode.flowerrates.app-foundation-release-41 C:\Users\Roy\.gradle\caches\8.9\transforms\d5fa33da843174a5c076be3e9a231f5b\transformed\foundation-release\res
+com.opencode.flowerrates.app-material-icons-core-release-42 C:\Users\Roy\.gradle\caches\8.9\transforms\d631672b74b84a066db2777353ab9a1a\transformed\material-icons-core-release\res
+com.opencode.flowerrates.app-ui-graphics-release-43 C:\Users\Roy\.gradle\caches\8.9\transforms\e3cf6d122dff787b3e84cc21ba003fdf\transformed\ui-graphics-release\res
+com.opencode.flowerrates.app-appcompat-resources-1.6.1-44 C:\Users\Roy\.gradle\caches\8.9\transforms\ea3afb61e5c580dc5d70b4f3e3e17fa2\transformed\appcompat-resources-1.6.1\res
+com.opencode.flowerrates.app-savedstate-ktx-1.2.1-45 C:\Users\Roy\.gradle\caches\8.9\transforms\ee60e26dfebdacc5e28cdc9bb4e0ec4e\transformed\savedstate-ktx-1.2.1\res
+com.opencode.flowerrates.app-lifecycle-viewmodel-compose-release-46 C:\Users\Roy\.gradle\caches\8.9\transforms\eea7a2d42a1a9bb43caad94ff648a9d9\transformed\lifecycle-viewmodel-compose-release\res
+com.opencode.flowerrates.app-navigation-common-ktx-2.8.4-47 C:\Users\Roy\.gradle\caches\8.9\transforms\f013f0d9f36e04e10d9dc6691436786a\transformed\navigation-common-ktx-2.8.4\res
+com.opencode.flowerrates.app-pngs-48 C:\Users\Roy\Documents\Open Code\flower-rates\app\build\generated\res\pngs\release
+com.opencode.flowerrates.app-resValues-49 C:\Users\Roy\Documents\Open Code\flower-rates\app\build\generated\res\resValues\release
+com.opencode.flowerrates.app-packageReleaseResources-50 C:\Users\Roy\Documents\Open Code\flower-rates\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.opencode.flowerrates.app-packageReleaseResources-51 C:\Users\Roy\Documents\Open Code\flower-rates\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.opencode.flowerrates.app-release-52 C:\Users\Roy\Documents\Open Code\flower-rates\app\build\intermediates\merged_res\release\mergeReleaseResources
+com.opencode.flowerrates.app-main-53 C:\Users\Roy\Documents\Open Code\flower-rates\app\src\main\res
+com.opencode.flowerrates.app-release-54 C:\Users\Roy\Documents\Open Code\flower-rates\app\src\release\res
