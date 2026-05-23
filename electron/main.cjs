@@ -1,9 +1,31 @@
 const { app, BrowserWindow, Menu } = require('electron');
 const path = require('path');
+const http = require('http');
+const fs = require('fs');
 const { spawn } = require('child_process');
 
 let mainWindow;
 let devServer;
+let prodServer;
+
+function serveDist(distDir) {
+  const mimeTypes = {
+    '.html': 'text/html', '.js': 'text/javascript', '.css': 'text/css',
+    '.json': 'application/json', '.png': 'image/png', '.jpg': 'image/jpeg',
+    '.gif': 'image/gif', '.svg': 'image/svg+xml', '.ico': 'image/x-icon',
+    '.woff': 'font/woff', '.woff2': 'font/woff2', '.ttf': 'font/ttf',
+  };
+  return http.createServer((req, res) => {
+    let filePath = path.join(distDir, req.url === '/' ? 'index.html' : req.url);
+    const ext = path.extname(filePath);
+    if (!fs.existsSync(filePath)) {
+      filePath = path.join(distDir, 'index.html');
+    }
+    const contentType = mimeTypes[ext] || 'application/octet-stream';
+    res.writeHead(200, { 'Content-Type': contentType });
+    fs.createReadStream(filePath).pipe(res);
+  }).listen(0, '127.0.0.1');
+}
 
 function createWindow() {
   mainWindow = new BrowserWindow({
@@ -40,8 +62,10 @@ function createWindow() {
       console.error(`[vite] ${data}`);
     });
   } else {
-    const distPath = path.join(__dirname, '..', 'dist', 'index.html');
-    mainWindow.loadFile(distPath);
+    const distDir = path.join(__dirname, '..', 'dist');
+    prodServer = serveDist(distDir);
+    const addr = prodServer.address();
+    mainWindow.loadURL(`http://127.0.0.1:${addr.port}`);
     mainWindow.show();
   }
 
@@ -79,6 +103,7 @@ app.whenReady().then(createWindow);
 
 app.on('window-all-closed', () => {
   if (devServer) devServer.kill();
+  if (prodServer) prodServer.close();
   if (process.platform !== 'darwin') app.quit();
 });
 
@@ -88,4 +113,5 @@ app.on('activate', () => {
 
 app.on('before-quit', () => {
   if (devServer) devServer.kill();
+  if (prodServer) prodServer.close();
 });
