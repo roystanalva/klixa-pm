@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DailyNews</string>
+    <string name="tab_relevant">Relevant</string>
+    <string name="tab_country">Country</string>
+    <string name="tab_international">International</string>
+    <string name="tab_finance">Finance</string>
+    <string name="tab_technology">Technology</string>
+    <string name="tab_sports">Sports</string>
+    <string name="tab_health">Health</string>
+</resources>
