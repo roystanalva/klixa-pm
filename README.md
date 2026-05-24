@@ -1,4 +1,4 @@
-# Nexus ERP
+# Kilxa ERP
 
 Enterprise-grade resource planning platform built for scale, speed, and collaboration.
 

@@ -1,5 +1,5 @@
 {
-    "name":  "nexus-erp",
+    "name":  "kilxa-erp",
     "private":  true,
     "version":  "1.0.0",
     "type":  "module",
@@ -14,8 +14,8 @@
                     "electron:start":  "electron ."
                 },
     "build":  {
-                  "appId":  "com.nexuserp.app",
-                  "productName":  "Nexus ERP",
+                  "appId":  "com.kilxaerp.app",
+                  "productName":  "kilxa-erp",
                   "directories":  {
                                       "output":  "release"
                                   },
