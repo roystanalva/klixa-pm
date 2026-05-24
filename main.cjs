@@ -33,7 +33,7 @@ function createWindow() {
     height: 900,
     minWidth: 1024,
     minHeight: 700,
-    title: 'Kilxa ERP',
+    title: 'Klixa ERP',
     icon: path.join(__dirname, '..', 'public', 'favicon.svg'),
     webPreferences: {
       nodeIntegration: false,

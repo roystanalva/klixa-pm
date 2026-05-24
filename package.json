@@ -1,5 +1,5 @@
 {
-    "name":  "kilxa-erp",
+    "name":  "klixa-erp",
     "private":  true,
     "version":  "1.0.0",
     "type":  "module",
@@ -14,8 +14,8 @@
                     "electron:start":  "electron ."
                 },
     "build":  {
-                  "appId":  "com.kilxaerp.app",
-                  "productName":  "kilxa-erp",
+                  "appId":  "com.klixaerp.app",
+                  "productName":  "klixa-erp",
                   "directories":  {
                                       "output":  "release"
                                   },

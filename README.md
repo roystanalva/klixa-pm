@@ -1,4 +1,4 @@
-# Kilxa ERP
+# Klixa ERP
 
 Enterprise-grade resource planning platform built for scale, speed, and collaboration.
 

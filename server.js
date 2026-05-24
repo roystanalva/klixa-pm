@@ -59,7 +59,7 @@ server.listen(PORT, '0.0.0.0', () => {
   const url = `http://localhost:${PORT}`;
   console.log('');
   console.log('  ╔══════════════════════════════════════╗');
-  console.log('  ║       Kilxa ERP  v1.0.0             ║');
+  console.log('  ║       Klixa ERP  v1.0.0             ║');
   console.log('  ║                                      ║');
   console.log('  ║  Running at: ' + url);
   console.log('  ║  Press Ctrl+C to stop               ║');

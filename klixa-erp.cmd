@@ -1,5 +1,5 @@
 @echo off
-title Kilxa ERP
+title Klixa ERP
 cd /d "%~dp0"
 
 :: Check for Node.js
@@ -30,7 +30,7 @@ if not exist "dist\index.html" (
 
 echo.
 echo  ========================================
-echo     Kilxa ERP  v1.0.0
+echo     Klixa ERP  v1.0.0
 echo     Starting server...
 echo  ========================================
 echo.
